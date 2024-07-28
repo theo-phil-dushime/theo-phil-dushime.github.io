@@ -1,17 +1,18 @@
-# Project 1 : Traditional Machine Learning
-### Classification
-### Regression
-### Clustering
+# PROJECTS
+## Project 1 : Traditional Machine Learning
+#### Classification
+#### Regression
+#### Clustering
 
 
-# Project 2 : Deep Learning
-### RNN
-### CNN
-### LSTM
+## Project 2 : Deep Learning
+#### RNN
+#### CNN
+#### LSTM
 
 
-# Generative AI
-### LLM
-### ChatBot
-### 
+## Generative AI
+#### LLM
+#### ChatBot
+#### 
 
